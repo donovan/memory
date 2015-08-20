@@ -1,0 +1,4 @@
+2015-08-21
+http//rancher.com/clustering-a-node-js-application-with-mongo-docker-and-rancher/|Setup lets talk using docker/rancher
+https://github.com/sdelements/lets-chat|A slack alike node.js open source project that does xmpp
+https://docs.google.com/presentation/d/1OvJStE8aohGeI3y5BcYX8bBHwoHYCPu99A3KTTZElr0/preview?sle=true#slide=id.gb74341dde_1_46|Slidedeck detailing googles infrastructure from the hardware up.
